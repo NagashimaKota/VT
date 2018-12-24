@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTuber2", "VTuber2.csproj", "{DF6686EE-5014-E7F8-F335-8B3191B02704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTuber2.Plugins", "VTuber2.Plugins.csproj", "{57BF3EA2-40D9-A09D-F537-D2B97C43FCA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTuber2.Editor.Plugins", "VTuber2.Editor.Plugins.csproj", "{629C6714-935E-52B6-2395-25E901BC54AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTuber2.Editor", "VTuber2.Editor.csproj", "{61EE5B5A-B615-90DC-5D8E-ADC55A1B18C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6686EE-5014-E7F8-F335-8B3191B02704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6686EE-5014-E7F8-F335-8B3191B02704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6686EE-5014-E7F8-F335-8B3191B02704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6686EE-5014-E7F8-F335-8B3191B02704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BF3EA2-40D9-A09D-F537-D2B97C43FCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BF3EA2-40D9-A09D-F537-D2B97C43FCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BF3EA2-40D9-A09D-F537-D2B97C43FCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BF3EA2-40D9-A09D-F537-D2B97C43FCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629C6714-935E-52B6-2395-25E901BC54AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629C6714-935E-52B6-2395-25E901BC54AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629C6714-935E-52B6-2395-25E901BC54AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629C6714-935E-52B6-2395-25E901BC54AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61EE5B5A-B615-90DC-5D8E-ADC55A1B18C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EE5B5A-B615-90DC-5D8E-ADC55A1B18C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EE5B5A-B615-90DC-5D8E-ADC55A1B18C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EE5B5A-B615-90DC-5D8E-ADC55A1B18C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
